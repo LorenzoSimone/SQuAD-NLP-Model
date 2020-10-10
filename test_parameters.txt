@@ -1,0 +1,2 @@
+python custom_runsquad.py --learning_rate "1e-43" --size_hidden "256,512" --num_hidden_layer "9, 12" --path_trainingData_file squad/train-v2.json --path_validationData_file squad/dev-v2.json
+
