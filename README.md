@@ -7,7 +7,7 @@ the performance of transformers-based models for reading comprehension tasks.
 As a starting point we introduce a baseline model BERT follow by DistilBERT and ELECTRA models.
 Our main objective is proposing a journey through transformers-based models, starting from a solid baseline and obtaining competitive results with the latter exploiting a lower need of computational resources and a fast to deploy DistilBERT and ELECTRA fine-tuned models for SQuAD task.
 
-# Frameworks
+## Frameworks
 - HuggingFace
 - PyTorch
 - Microsoft Azure
